@@ -6,7 +6,7 @@
 
 - 🍓 [fly63前端网](https://www.fly63.com)
   
-- 🍓 []（http://hao.fly63.com/） []（https://www.fly63.com）
+- 🍓 [简约导航](http://hao.fly63.com) 
   
 - 🍉 [在线工具大全](https://github.com/mydearcc/tools)
   
