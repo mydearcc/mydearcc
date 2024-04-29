@@ -8,4 +8,4 @@
   
 - 🍉 [在线工具大全](https://github.com/mydearcc/tools)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mydearcc&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mydearcc)
